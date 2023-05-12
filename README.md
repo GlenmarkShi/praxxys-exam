@@ -68,7 +68,7 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 ## How to install
 
 Step 1 - Clone the project.
-Step 2 - After cloning it, find the .env example file in the project folder.
+**Step 2 - After cloning it, find the .env example file in the project folder.
 Step 3 - Duplicate it and rename it to .env
 Step 4 - Open the .env and edit the database name.
 Step 5 - Go to your mysql to add a database name.
