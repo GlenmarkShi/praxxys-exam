@@ -4,7 +4,7 @@ import { Head } from '@inertiajs/vue3';
 </script>
 
 <template>
-    <Head title="Dashboard" />
+    <Head title="Products" />
 
     <AuthenticatedLayout>
         <template #header>
@@ -19,5 +19,4 @@ import { Head } from '@inertiajs/vue3';
             </div>
         </div>
     </AuthenticatedLayout>
-    
 </template>

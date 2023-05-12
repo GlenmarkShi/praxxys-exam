@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+* {
+    font-family: 'Poppins', sans-serif;
+    list-style: none;
+}
+
+.wrapper {
+    display: flex;
+    position: relative;
+}
+
+.wrapper .sidebar {
+    position: fixed;
+    width: 240px;
+    height: 100%;
+    background-color: #454545;
+}
+
+.wrapper .sidebar ul li {
+    margin-top: 20px;
+    margin-right: 20px;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.wrapper .sidebar ul li a .fa-solid {
+    width: 40px;
+}
+
+.wrapper .sidebar ul li:hover {
+    background: grey;
+    transition: 0.3s;
+}
