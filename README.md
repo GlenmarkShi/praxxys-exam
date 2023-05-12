@@ -67,14 +67,14 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 
 ## How to install
 
-Step 1 - Clone the project.
-**Step 2 - After cloning it, find the .env example file in the project folder.
-Step 3 - Duplicate it and rename it to .env
-Step 4 - Open the .env and edit the database name.
-Step 5 - Go to your mysql to add a database name.
-Step 6 - Go to your project folder command prompt and type 'php artisan key:generate'.
-Step 7 - After that type 'php artisan migrate'.
-Step 8 - After that, we will generate a seeder, type in the console 'php artisan db:seed'
-Step 9 - Type in the console 'php artisan serve'
-Step 10 - open another command promt to type 'npm run dev'.
+- Step 1 - Clone the project.
+- Step 2 - After cloning it, find the .env example file in the project folder.
+- Step 3 - Duplicate it and rename it to .env
+- Step 4 - Open the .env and edit the database name.
+- Step 5 - Go to your mysql to add a database name.
+- Step 6 - Go to your project folder command prompt and type 'php artisan key:generate'.
+- Step 7 - After that type 'php artisan migrate'.
+- Step 8 - After that, we will generate a seeder, type in the console 'php artisan db:seed'
+- Step 9 - Type in the console 'php artisan serve'
+- Step 10 - open another command promt to type 'npm run dev'.
 
